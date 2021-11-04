@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there
 I am Ikbal 🐈
 
-- 🔭 I’m currently working with Ably SDKs to power/improve realtime communication.
-- 🌱 I am currently learning/practicing Coroutines
+- 🔭 I’m currently working on Ably SDKs to power / improve realtime communication.
+- 🌱 I am currently learning / practicing Coroutines
 - 🤔 Ask me about mobile development in general,
 Android development in specific, Kotlin, Java, object oriented
 programming and product development. 
-- 🧗I am a starter boulderer and I love climbing
+- 🧗 I am a starter boulderer and I love climbing
 
 <!--
 **ikbalkaya/ikbalkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
