@@ -7,6 +7,8 @@ I am Ikbal 🐈
 Android development in specific, Kotlin, Java, object oriented
 programming and product development. 
 - 🧗 I am a starter boulderer and I love climbing
+- 🌟 I love space, stars and Pink Floyd
+- 🌞 Did I mention sun?
 
 <!--
 **ikbalkaya/ikbalkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
