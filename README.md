@@ -5,6 +5,7 @@ I am Ikbal 🐈
 - 🤔 Ask me about mobile development in general,
 Android development in specific, Kotlin, Java, object oriented
 programming and software architecture. 
+-  I am currently learning the nitty gritty details of concurrency  especially in JVM/ART environments
 - 🧗 I am a starter boulderer and I love climbing
 - 🌟 I love Space, stars, sun and Pink Floyd
 
