@@ -1,13 +1,12 @@
 ### Hi there
 I am Ikbal 🐈
 
-- 🔭 I’m currently working on Ably SDKs.
 - 🤔 Ask me about mobile development in general,
 Android development in specific, Kotlin, Java, object oriented
 programming and software architecture. 
 -  I am currently learning the nitty gritty details of concurrency  especially in JVM/ART environments
-- 🧗 I am a starter boulderer and I love climbing
-- 🌟 I love Space, stars, sun and Pink Floyd
+- 🧗 I am a (always) starter boulderer and I love climbing
+
 
 <!--
 **ikbalkaya/ikbalkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
