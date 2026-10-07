@@ -1,11 +1,6 @@
-### Hi there
-I am Ikbal 🐈
+### Hi there, I'm Ikbal 🐈
 
-- I am a software engineer specialising in mobile app development. Android more specifically but I have written iOS apps too.
-
-- I do care about simplicity, consistency and reliability in any software component.
-
-- I do care about strong typing and strong tooling. Strong typing creates ability to create more solid foundations. strong tooling helps those foundations grow wiser.
- 
--  I am interested in concurrency and am learning language features and communication mechanisms in different languages, specifically JVM based ones.Java and Kotlin. 
-
+- 📱 Software engineer specialising in mobile applications and SDKs
+- 🔗 I enjoy discovering and building interconnected systems, and digging into how they're structured
+- ✨ I care about simplicity, consistency and reliability
+- 🧵 Currently exploring concurrency, both in-memory and across distributed systems, and how different languages handle it, especially on the JVM with Java and Kotlin
